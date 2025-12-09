@@ -1,4 +1,4 @@
-# Data Projects Portfolio
+# Data Portfolio
 
 Welcome to my Data Projects Portfolio! Here, you can explore projects I've worked on, most of which are self-directed.
 
