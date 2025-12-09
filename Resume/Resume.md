@@ -53,7 +53,7 @@
 
 **Self-Directed Summer Portfolio** | Jun 2025 – Aug 2025  
 - Developed projects applying Excel, SQL, Power BI, R, and Python to data challenges  
-- [GitHub Portfolio](https://github.com/DashineePARMANUM/statistics-projects-summer-2025)  
+- [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025)  
 
 ---
 
@@ -78,3 +78,4 @@
 **Translation Committee Member** | Canadian Statistics Student Conference (CSSC) 2025, Saskatoon, Saskatchewan | Sep 2024 – May 2025  
 - Ensured bilingual accessibility of conference materials through translation and review  
 - Supported communication between English and French-speaking participants during conference
+
