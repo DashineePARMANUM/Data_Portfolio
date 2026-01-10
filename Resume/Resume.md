@@ -76,6 +76,7 @@
 ## VOLUNTEER EXPERIENCE
 
 **Translation Committee Member** | Canadian Statistics Student Conference (CSSC) 2025, Saskatoon, Saskatchewan | Sep 2024 – May 2025  
-- Ensured bilingual accessibility of conference materials through translation and review  
-- Supported communication between English and French-speaking participants during conference
-
+- The Thirteenth Annual Canadian Statistics Student Conference:
+- Translated official materials including abstracts, promotional content, and emails from English to French.
+- Chaired two oral presentation sessions: “Modeling in Health, Genomics, and Computation” (French-speaking session) and “Methods for High-Dimensional and Genomic Data”.
+- Provided live French-to-English translation during the career panel.
