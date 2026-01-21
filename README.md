@@ -16,6 +16,8 @@ Even after completing them, I continue to refine these projects, finding small m
 | [superstore-data-analysis](https://github.com/DashineePARMANUM/superstore-data-analysis) | Excel, SQL, Power BI | Sales and customer trends analysis for a U.S. superstore. |
 | [titanic-data-analysis](https://github.com/DashineePARMANUM/titanic-data-analysis) | R, SQL, Excel | Exploratory and predictive analysis of Titanic passengers. |
 | [wine-quality-data-analysis](https://github.com/DashineePARMANUM/wine-quality-data-analysis) | Python, SQL, Power BI | Analysis and modeling of wine quality data. |
+| [Tableau de bord climatique multi-villes|Multi-city Climate Dashboard]([https://github.com/DashineePARMANUM/wine-quality-data-analysis](https://github.com/DashineePARMANUM/Tableau_de_bord_climatique_multi-villes)) | Python, Jupyter Notebook |  |
+
 
 ## How to Use This Repo
 - Click on any project link to explore the code, datasets, and documentation.  
