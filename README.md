@@ -14,7 +14,7 @@ Even after completing them, I continue to refine these projects, finding small m
 |---------|-------|-------------|
 | [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025) | Excel, SQL, R, Python, Power BI | Hands-on projects demonstrating proficiency across various tools. |
 | [superstore-data-analysis](https://github.com/DashineePARMANUM/superstore-data-analysis) | Excel, SQL, Power BI | Sales and customer trends analysis for a U.S. superstore. |
-| [Tableau_de_bord_climatique_multi-villes(Multi-city_Climate_Dashboard)](https://github.com/DashineePARMANUM/Tableau_de_bord_climatique_multi-villes) | Python, Jupyter Notebook, Panel, HvPlot | Projet pour SDS 3786 - Laboratoire en science des données (Project for French section of SDS 3386 - Data Science Lab) [uOttawa] |
+| [Tableau_de_bord_climatique_multi-villes (Multi-city_Climate_Dashboard)](https://github.com/DashineePARMANUM/Tableau_de_bord_climatique_multi-villes) | Python, Jupyter Notebook, Panel, HvPlot | Projet pour SDS 3786 - Laboratoire en science des données (Project for French section of SDS 3386 - Data Science Lab) [uOttawa] |
 | [titanic-data-analysis](https://github.com/DashineePARMANUM/titanic-data-analysis) | R, SQL, Excel | Exploratory and predictive analysis of Titanic passengers. |
 | [wine-quality-data-analysis](https://github.com/DashineePARMANUM/wine-quality-data-analysis) | Python, SQL, Power BI | Analysis and modeling of wine quality data. |
 
